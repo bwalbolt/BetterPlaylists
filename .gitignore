@@ -1,3 +1,22 @@
+none
+none.map
+._.DS_Store
+.sass-cache
+.sass-cache/*
+*.css.map
+
+# Webstorm
+.idea
+resources
+srt
+
+#Vim
+*.swp
+*.swo
+# General
+.DS_Store
+build
+
 # Logs
 logs
 *.log
@@ -25,3 +44,7 @@ build/Release
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
 node_modules
+bower_components
+
+# Users Environment Variables
+.lock-wscript
