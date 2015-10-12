@@ -1,0 +1,8 @@
+{
+  "name": "BetterPlaylists",
+  "description": "Better playlists for YouTube",
+  "repository": "https://github.com/bwalbolt/BetterPlaylists.git",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
